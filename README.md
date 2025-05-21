@@ -42,12 +42,12 @@ System kompleksowej oceny ryzyka kredytowego wykorzystujący zaawansowane algory
 ## Dokumentacja
 
 ### Dla użytkowników
-- [Przewodnik użytkownika (PL)](USER_GUIDE_PL.md)
-- [User Guide (EN)](USER_GUIDE_EN.md)
+- [Przewodnik użytkownika (PL)](docs/USER_GUIDE_PL.md)
+- [User Guide (EN)](docs/USER_GUIDE_EN.md)
 
 ### Dla deweloperów
-- [Dokumentacja techniczna (PL)](TECHNICAL_GUIDE_PL.md)
-- [Technical Documentation (EN)](TECHNICAL_GUIDE_EN.md)
+- [Dokumentacja techniczna (PL)](docs/TECHNICAL_GUIDE_PL.md)
+- [Technical Documentation (EN)](docs/TECHNICAL_GUIDE_EN.md)
 
 ## Wymagania
 - Python 3.8+
@@ -152,12 +152,12 @@ A comprehensive credit risk assessment system utilizing advanced algorithms and 
 ## Documentation
 
 ### For Users
-- [User Guide (EN)](USER_GUIDE_EN.md)
-- [Przewodnik użytkownika (PL)](USER_GUIDE_PL.md)
+- [User Guide (EN)](docs/USER_GUIDE_EN.md)
+- [Przewodnik użytkownika (PL)](docs/USER_GUIDE_PL.md)
 
 ### For Developers
-- [Technical Documentation (EN)](TECHNICAL_GUIDE_EN.md)
-- [Dokumentacja techniczna (PL)](TECHNICAL_GUIDE_PL.md)
+- [Technical Documentation (EN)](docs/TECHNICAL_GUIDE_EN.md)
+- [Dokumentacja techniczna (PL)](docs/TECHNICAL_GUIDE_PL.md)
 
 ## Requirements
 - Python 3.8+
