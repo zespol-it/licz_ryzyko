@@ -1,0 +1,44 @@
+Specjalista ds. ryzyka
+python, SQL, Excel, R
+
+-co najmniej 5 lat doświadczenia w zarządzaniu ryzykiem kredytowym, gwarantowaniu należności lub pokrewnych dziedzinach
+-doświadczenie w opracowywaniu strategii kredytowej oraz modelowaniu ryzyka kredytowego
+-zaawansowane umiejętności analityczne
+-biegła znajomość narzędzi analitycznych, takich jak SQL, oraz programów do modelowania statystycznego (R, Python i inne)
+
+Zadania:
+-tworzenie i wdrażanie strategii kredytowej dla nabywania długów
+-modelowanie, weryfikacja i testowanie profili spłat
+-ustalanie cen wierzytelności w zależności od ryzyka
+-współpraca z działami windykacji w celu usprawnienia procesów
+-tworzenie i zatwierdzanie modelu rezerw dla zakupionych długów
+-nadzór i zarządzanie portfelem wierzytelności
+
+co mozesz wygenerowac?
+
+
+///=====
+System analizy ryzyka kredytowego (Credit Risk Analysis System):
+1. Skrypt w Pythonie do oceny profili ryzyka
+- Modele scoringowe
+- System klasyfikacji dłużników
+2. Narzędzia do modelowania spłat (Repayment Modeling Tools):
+- Predykcyjne modele spłat w R lub Pythonie
+- Analiza historycznych wzorców spłat
+- Kalkulatory NPV dla portfeli wierzytelności
+3. System wyceny wierzytelności (Debt Valuation System):
+- Automatyczny kalkulator cen zakupu długów
+- Model ryzyka-zwrotu
+- Narzędzia do symulacji różnych scenariuszy
+4. Dashboardy analityczne (Analytical Dashboards):
+- Interaktywne wizualizacje portfela
+- Raporty efektywności windykacji
+- Monitoring KPI
+5. System zarządzania rezerwami (Provisions Management System):
+- Model kalkulacji rezerw
+- Narzędzia do stress-testów
+- System monitoringu adekwatności rezerw
+6. Baza danych SQL (SQL Database):
+- Schema dla przechowywania danych o dłużnikach
+- System śledzenia historii spłat
+- Struktura do analizy portfela
